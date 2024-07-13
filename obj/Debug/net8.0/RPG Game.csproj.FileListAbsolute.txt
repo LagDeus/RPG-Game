@@ -12,3 +12,4 @@ C:\Users\alexm\Documents\Visual Studio Code\.NET\RPG Game\obj\Debug\net8.0\refin
 C:\Users\alexm\Documents\Visual Studio Code\.NET\RPG Game\obj\Debug\net8.0\RPG Game.pdb
 C:\Users\alexm\Documents\Visual Studio Code\.NET\RPG Game\obj\Debug\net8.0\RPG Game.genruntimeconfig.cache
 C:\Users\alexm\Documents\Visual Studio Code\.NET\RPG Game\obj\Debug\net8.0\ref\RPG Game.dll
+C:\Users\alexm\Documents\Visual Studio Code\.NET\RPG Game\obj\Debug\net8.0\RPG Game.sourcelink.json

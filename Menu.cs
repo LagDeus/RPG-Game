@@ -2,6 +2,7 @@ class Menu {
 
 public static void Start() {
 
+//test 
     Console.WriteLine("Welcome to my RPG GAME \n");
     Console.ReadLine();
 
